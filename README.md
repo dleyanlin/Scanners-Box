@@ -27,7 +27,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/chuhades/dnsbrute (a fast domain brute tool)
 
 #### Database Vulnerability Scanners
-
+- https://github.com/sqlmapproject/sqlmap (Automatic SQL injection and database takeover tool)
 - https://github.com/0xbug/SQLiScanner (A SQLi Vulnerability Scanner via SQLMAP and Charles)
 - https://github.com/stamparm/DSSS (A SQLi Vulnerability Scanner with 99 lines of code)
 - https://github.com/LoRexxar/Feigong (A SQLi Vulnerability Scanner for MySQL)
